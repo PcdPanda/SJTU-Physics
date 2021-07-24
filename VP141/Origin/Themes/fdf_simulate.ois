@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimulateSetting CategoryName="Origin Basic Functions" FunctionName="Gauss" CategoryName2D="Surface Fitting" FunctionName2D="Voigt2DMod">
+	<Allometric1 NodeID="0">Settings<node327730 NodeID="327730">2.</node327730><node393266 NodeID="393266">3</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">10.</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">-0.5</node1001></Allometric1>
+	<Beta NodeID="0">Settings<node327730 NodeID="327730">-1</node327730><node393266 NodeID="393266">20</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">8</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">15</node1003><node1004 NodeID="1004">3</node1004><node1005 NodeID="1005">4</node1005></Beta>
+	<Boltzmann NodeID="0">Settings<node327730 NodeID="327730">-7</node327730><node393266 NodeID="393266">7</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0</node1002><node1003 NodeID="1003">1</node1003></Boltzmann>
+	<dHyperbl NodeID="0">Settings<node327730 NodeID="327730">-4</node327730><node393266 NodeID="393266">6</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">-2</node1003><node1004 NodeID="1004">5</node1004></dHyperbl>
+	<ExpAssoc NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">2</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">2</node1003><node1004 NodeID="1004">2</node1004></ExpAssoc>
+	<ExpDecay1 NodeID="0">Settings<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">10</node1002><node1003 NodeID="1003">1</node1003></ExpDecay1>
+	<ExpDecay2 NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">0</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">2</node1004><node1005 NodeID="1005">2</node1005></ExpDecay2>
+	<ExpDecay3 NodeID="0">Settings<node327730 NodeID="327730">2</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">10</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">10</node1004><node1005 NodeID="1005">2</node1005><node1006 NodeID="1006">5</node1006><node1007 NodeID="1007">3</node1007></ExpDecay3>
+	<ExpGrow1 NodeID="0">Settings<node327730 NodeID="327730">2</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">2</node1002><node1003 NodeID="1003">1</node1003></ExpGrow1>
+	<ExpGrow2 NodeID="0">Settings<node327730 NodeID="327730">2</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">0</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">2</node1004><node1005 NodeID="1005">2</node1005></ExpGrow2>
+	<Gauss NodeID="0">Settings<node327730 NodeID="327730">-1</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">1.5</node1002><node1003 NodeID="1003">5</node1003><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090></Gauss>
+	<GaussAmp NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">0</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">10</node1003></GaussAmp>
+	<Hyperbl NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001></Hyperbl>
+	<Logistic NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">25</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">5</node1002><node1003 NodeID="1003">3</node1003></Logistic>
+	<LogNormal NodeID="0">Settings<node327730 NodeID="327730">-2</node327730><node393266 NodeID="393266">15</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">5</node1001><node1002 NodeID="1002">0.3</node1002><node1003 NodeID="1003">1</node1003></LogNormal>
+	<Lorentz NodeID="0">Settings<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">9</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">5</node1001><node1002 NodeID="1002">2</node1002><node1003 NodeID="1003">1</node1003></Lorentz>
+	<Pulse NodeID="0">Settings<node327730 NodeID="327730">-1</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">0</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">0.5</node1003><node1004 NodeID="1004">1</node1004><node1005 NodeID="1005">0.5</node1005></Pulse>
+	<Rational0 NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">35.</node1002></Rational0>
+	<Sine NodeID="0">Settings<node327730 NodeID="327730">-2</node327730><node393266 NodeID="393266">2</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></Sine>
+	<Voigt NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">5</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">1</node1004></Voigt>
+	<CCE NodeID="0">Settings<node327730 NodeID="327730">-4</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">1</node1004><node1005 NodeID="1005">2</node1005><node1006 NodeID="1006">1</node1006><node1007 NodeID="1007">1</node1007><node1008 NodeID="1008">3</node1008></CCE>
+	<ECS NodeID="0">Settings<node327730 NodeID="327730">-6</node327730><node393266 NodeID="393266">6</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">0</node1001><node1002 NodeID="1002">5</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">2</node1004><node1005 NodeID="1005">2</node1005></ECS>
+	<GaussMod NodeID="0">Settings<node327730 NodeID="327730">-4</node327730><node393266 NodeID="393266">4</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">0.05</node1004></GaussMod>
+	<GCAS NodeID="0">Settings<node327730 NodeID="327730">-4</node327730><node393266 NodeID="393266">4</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">0</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">0.01</node1004><node1005 NodeID="1005">0.001</node1005></GCAS>
+	<Giddings NodeID="0">Settings<node327730 NodeID="327730">-2</node327730><node393266 NodeID="393266">30</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">5</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">5</node1003></Giddings>
+	<Asymptotic1 NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">3.5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></Asymptotic1>
+	<BoxLucas1 NodeID="0">Settings<node327730 NodeID="327730">-8</node327730><node393266 NodeID="393266">-4</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">5</node1000><node1001 NodeID="1001">1</node1001></BoxLucas1>
+	<BoxLucas1Mod NodeID="0">Settings<node327730 NodeID="327730">2</node327730><node393266 NodeID="393266">12</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">0.5</node1001></BoxLucas1Mod>
+	<BoxLucas2 NodeID="0">Settings<node327730 NodeID="327730">-1</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">4</node1001></BoxLucas2>
+	<Chapman NodeID="0">Settings<node327730 NodeID="327730">-0.45</node327730><node393266 NodeID="393266">0.8</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">3</node1002></Chapman>
+	<Exp1p1 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">35.</node1000></Exp1p1>
+	<Exp1p2 NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">6</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000></Exp1p2>
+	<Exp1p2Md NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0.5</node1000></Exp1p2Md>
+	<Exp1P3 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">35.</node1000></Exp1P3>
+	<Exp1P3Md NodeID="0">Settings<node327730 NodeID="327730">-3</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">5</node1000></Exp1P3Md>
+	<Exp1P4 NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000></Exp1P4>
+	<Exp1P4Md NodeID="0">Settings<node327730 NodeID="327730">-2</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">2</node1000></Exp1P4Md>
+	<Exp2P NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001></Exp2P>
+	<Exp2PMod1 NodeID="0">Settings<node327730 NodeID="327730">4</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">5</node1000><node1001 NodeID="1001">2.5</node1001></Exp2PMod1>
+	<Exp2PMod2 NodeID="0">Settings<node327730 NodeID="327730">20</node327730><node393266 NodeID="393266">30</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">3</node1000><node1001 NodeID="1001">1.5</node1001></Exp2PMod2>
+	<Exp3P1 NodeID="0">Settings<node327730 NodeID="327730">-12</node327730><node393266 NodeID="393266">4</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">3</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">5</node1002></Exp3P1>
+	<Exp3P1Md NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">3</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">2</node1002></Exp3P1Md>
+	<Exp3P2 NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">7</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">0.5</node1001><node1002 NodeID="1002">-0.25</node1002></Exp3P2>
+	<Exponential NodeID="0">Settings<node327730 NodeID="327730">5</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">5</node1001><node1002 NodeID="1002">2.5</node1002></Exponential>
+	<ExpDec1 NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">0</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">1</node1002></ExpDec1>
+	<ExpDec2 NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">0</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">2</node1003><node1004 NodeID="1004">2</node1004></ExpDec2>
+	<ExpDec3 NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">8</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">-2</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">3</node1002><node1003 NodeID="1003">2</node1003><node1004 NodeID="1004">2</node1004><node1005 NodeID="1005">3</node1005><node1006 NodeID="1006">4</node1006></ExpDec3>
+	<ExpGro1 NodeID="0">Settings<node327730 NodeID="327730">2</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></ExpGro1>
+	<ExpGro2 NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">2</node1003><node1004 NodeID="1004">2</node1004></ExpGro2>
+	<ExpGro3 NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">2</node1003><node1004 NodeID="1004">2</node1004><node1005 NodeID="1005">3</node1005><node1006 NodeID="1006">3</node1006></ExpGro3>
+	<ExpLinear NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">20</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">3</node1002><node1003 NodeID="1003">4</node1003></ExpLinear>
+	<MnMolecular NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">0</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">2</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></MnMolecular>
+	<MnMolecular1 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">-4</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">2</node1002></MnMolecular1>
+	<Shah NodeID="0">Settings<node327730 NodeID="327730">-6</node327730><node393266 NodeID="393266">15</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">0.5</node1003></Shah>
+	<Stirling NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">-1</node1001><node1002 NodeID="1002">-1</node1002></Stirling>
+	<YldFert NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">0.5</node1002></YldFert>
+	<YldFert1 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">5</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></YldFert1>
+	<Hill NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">6</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">5</node1002></Hill>
+	<SGompertz NodeID="0">Settings<node327730 NodeID="327730">-4</node327730><node393266 NodeID="393266">8</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></SGompertz>
+	<Slogistic1 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></Slogistic1>
+	<Slogistic2 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0.5</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></Slogistic2>
+	<Slogistic3 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">2</node1002></Slogistic3>
+	<SRichards1 NodeID="0">Settings<node327730 NodeID="327730">-16</node327730><node393266 NodeID="393266">16</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">2</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">3</node1002><node1003 NodeID="1003">0.5</node1003></SRichards1>
+	<SRichards2 NodeID="0">Settings<node327730 NodeID="327730">-25</node327730><node393266 NodeID="393266">24</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">3</node1002><node1003 NodeID="1003">0.2</node1003></SRichards2>
+	<SWeibull1 NodeID="0">Settings<node327730 NodeID="327730">-1</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">2</node1002><node1003 NodeID="1003">1</node1003></SWeibull1>
+	<SWeibull2 NodeID="0">Settings<node327730 NodeID="327730">-0.5</node327730><node393266 NodeID="393266">2</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">3</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">2</node1002><node1003 NodeID="1003">1.5</node1003></SWeibull2>
+	<Dhyperbl NodeID="0">Settings<node327730 NodeID="327730">-3</node327730><node393266 NodeID="393266">6</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">-2</node1003><node1004 NodeID="1004">5</node1004></Dhyperbl>
+	<HyperbolaGen NodeID="0">Settings<node327730 NodeID="327730">-8</node327730><node393266 NodeID="393266">4</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002><node1003 NodeID="1003">0.5</node1003></HyperbolaGen>
+	<HyperbolaMod NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0.5</node1000><node1001 NodeID="1001">0.5</node1001></HyperbolaMod>
+	<RectHyperbola NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">2</node1000><node1001 NodeID="1001">1</node1001></RectHyperbola>
+	<Bradley NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">1</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">5</node1001></Bradley>
+	<Logarithm NodeID="0">Settings<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">8</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000></Logarithm>
+	<Log2P1 NodeID="0">Settings<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">30</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">-1</node1001></Log2P1>
+	<Log2P2 NodeID="0">Settings<node327730 NodeID="327730">-1</node327730><node393266 NodeID="393266">-0.999</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001></Log2P2>
+	<Log3P1 NodeID="0">Settings<node327730 NodeID="327730">-0.5</node327730><node393266 NodeID="393266">-0.48</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></Log3P1>
+	<Asym2Sig NodeID="0">Settings<node327730 NodeID="327730">-7</node327730><node393266 NodeID="393266">20</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">5</node1000><node1001 NodeID="1001">4</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">2</node1004><node1005 NodeID="1005">3</node1005></Asym2Sig>
+	<Extreme NodeID="0">Settings<node327730 NodeID="327730">-4</node327730><node393266 NodeID="393266">15</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003></Extreme>
+	<InvsPoly NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">8</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">5</node1002><node1003 NodeID="1003">-1</node1003><node1004 NodeID="1004">-1</node1004><node1005 NodeID="1005">1</node1005><node1006 NodeID="1006">1</node1006></InvsPoly>
+	<Logistpk NodeID="0">Settings<node327730 NodeID="327730">-50</node327730><node393266 NodeID="393266">50</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">10</node1002><node1003 NodeID="1003">0.2</node1003></Logistpk>
+	<PearsonVII NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">2</node1003></PearsonVII>
+	<PsdVoigt1 NodeID="0">Settings<node327730 NodeID="327730">-2</node327730><node393266 NodeID="393266">2</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">0</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">0.5</node1004></PsdVoigt1>
+	<PsdVoigt2 NodeID="0">Settings<node327730 NodeID="327730">-2</node327730><node393266 NodeID="393266">2</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">0</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">1</node1004><node1005 NodeID="1005">0.5</node1005></PsdVoigt2>
+	<Weibull3 NodeID="0">Settings<node327730 NodeID="327730">-30</node327730><node393266 NodeID="393266">30</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">5</node1001><node1002 NodeID="1002">0.1</node1002><node1003 NodeID="1003">10</node1003><node1004 NodeID="1004">4</node1004></Weibull3>
+	<DoseResp NodeID="0">Settings<node327730 NodeID="327730">-20</node327730><node393266 NodeID="393266">20</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">-1</node1002><node1003 NodeID="1003">0.2</node1003></DoseResp>
+	<OneSiteBind NodeID="0">Settings<node327730 NodeID="327730">-20</node327730><node393266 NodeID="393266">20</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001></OneSiteBind>
+	<OneSiteComp NodeID="0">Settings<node327730 NodeID="327730">-2</node327730><node393266 NodeID="393266">4</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">10</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></OneSiteComp>
+	<TwoSiteBind NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">3</node1003></TwoSiteBind>
+	<TwoSiteComp NodeID="0">Settings<node327730 NodeID="327730">-4</node327730><node393266 NodeID="393266">7</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">10</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">2</node1003><node1004 NodeID="1004">0.5</node1004></TwoSiteComp>
+	<LineMod NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">2</node1000><node1001 NodeID="1001">1</node1001></LineMod>
+	<Poly NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">1</node1004><node1005 NodeID="1005">1</node1005><node1006 NodeID="1006">1</node1006><node1007 NodeID="1007">1</node1007><node1008 NodeID="1008">1</node1008><node1009 NodeID="1009">1</node1009></Poly>
+	<Constant NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000></Constant>
+	<Line NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001></Line>
+	<Parabola NodeID="0">Settings<node327730 NodeID="327730">-30</node327730><node393266 NodeID="393266">30</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></Parabola>
+	<Cubic NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">20</node1003></Cubic>
+	<Poly4 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">100</node1001><node1002 NodeID="1002">20</node1002><node1003 NodeID="1003">100</node1003><node1004 NodeID="1004">10</node1004></Poly4>
+	<Poly5 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">1</node1004><node1005 NodeID="1005">10</node1005></Poly5>
+	<Allometric2 NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></Allometric2>
+	<Belehradek NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">35.</node1000><node1001 NodeID="1001">35.</node1001><node1002 NodeID="1002">35.</node1002></Belehradek>
+	<BlNeld NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002><node1003 NodeID="1003">1</node1003></BlNeld>
+	<BlNeldSmp NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">35.</node1000><node1001 NodeID="1001">35.</node1001><node1002 NodeID="1002">35.</node1002></BlNeldSmp>
+	<FreundlichEXT NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">50</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">5</node1001><node1002 NodeID="1002">0.5</node1002></FreundlichEXT>
+	<Gunary NodeID="0">Settings<node327730 NodeID="327730">10</node327730><node393266 NodeID="393266">200</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></Gunary>
+	<Harris NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></Harris>
+	<LangmuirEXT1 NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">60</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></LangmuirEXT1>
+	<LangmuirEXT2 NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></LangmuirEXT2>
+	<Pareto NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">4</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000></Pareto>
+	<Pow2P1 NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">8</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001></Pow2P1>
+	<Pow2P2 NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">20</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001></Pow2P2>
+	<Pow2P3 NodeID="0">Settings<node327730 NodeID="327730">-2</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">-2</node1001></Pow2P3>
+	<Power NodeID="0">Settings<node327730 NodeID="327730">-20</node327730><node393266 NodeID="393266">20</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">2</node1000></Power>
+	<Power0 NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">15</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">5</node1001><node1002 NodeID="1002">1</node1002><node1003 NodeID="1003">0.5</node1003></Power0>
+	<Power1 NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">15</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">5</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></Power1>
+	<Power2 NodeID="0">Settings<node327730 NodeID="327730">-30</node327730><node393266 NodeID="393266">90</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">2</node1002><node1003 NodeID="1003">1.5</node1003></Power2>
+	<BET NodeID="0">Settings<node327730 NodeID="327730">-1</node327730><node393266 NodeID="393266">2</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">5</node1001></BET>
+	<BETMod NodeID="0">Settings<node327730 NodeID="327730">-1</node327730><node393266 NodeID="393266">1.5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">5</node1001></BETMod>
+	<Holliday NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></Holliday>
+	<Holliday1 NodeID="0">Settings<node327730 NodeID="327730">-4</node327730><node393266 NodeID="393266">3</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></Holliday1>
+	<Nelder NodeID="0">Settings<node327730 NodeID="327730">-5</node327730><node393266 NodeID="393266">2</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">3</node1002><node1003 NodeID="1003">1</node1003></Nelder>
+	<Rational1 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">35.</node1002></Rational1>
+	<Rational2 NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">2</node1002></Rational2>
+	<Rational3 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002></Rational3>
+	<Rational4 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">-1</node1001><node1002 NodeID="1002">0.5</node1002></Rational4>
+	<Reciprocal NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">-1</node1001></Reciprocal>
+	<ReciprocalMod NodeID="0">Settings<node327730 NodeID="327730">-10</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">-1</node1001></ReciprocalMod>
+	<Reciprocal0 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">-1</node1000></Reciprocal0>
+	<Reciprocal1 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">1</node1000></Reciprocal1>
+	<SineDamp NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">-5</node1000><node1001 NodeID="1001">2</node1001><node1002 NodeID="1002">10</node1002><node1003 NodeID="1003">5</node1003></SineDamp>
+	<SineSqr NodeID="0">Settings<node327730 NodeID="327730">-1</node327730><node393266 NodeID="393266">1</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></SineSqr>
+	<Exp1P1 NodeID="0">Settings<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">-2.</node524338><node1000 NodeID="1000">0.5</node1000></Exp1P1>
+	<Exp1p3 NodeID="0">Settings<node327730 NodeID="327730">-9.925</node327730><node393266 NodeID="393266">-9.65</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">-2.5e+151</node524338><node1000 NodeID="1000">35.</node1000></Exp1p3>
+	<SLogistic1 NodeID="0">Settings<node327730 NodeID="327730">-4</node327730><node393266 NodeID="393266">6</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">-0.5</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></SLogistic1>
+	<SLogistic2 NodeID="0">Settings<node327730 NodeID="327730">-1.5</node327730><node393266 NodeID="393266">1.5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">-0.5</node524338><node1000 NodeID="1000">0.5</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">1</node1002></SLogistic2>
+	<SLogistic3 NodeID="0">Settings<node327730 NodeID="327730">-2.5</node327730><node393266 NodeID="393266">2.5</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">-0.5</node524338><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">2</node1002></SLogistic3>
+	<Biphasic NodeID="0">Settings<node327730 NodeID="327730">-25</node327730><node393266 NodeID="393266">30</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0.3</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">2</node1002><node1003 NodeID="1003">1</node1003><node1004 NodeID="1004">8</node1004><node1005 NodeID="1005">0.2</node1005><node1006 NodeID="1006">0.2</node1006></Biphasic>
+	<Hill1 NodeID="0">Settings<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">6</node393266><node458802 NodeID="458802">200</node458802><node524338 NodeID="524338">0</node524338><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">5</node1002><node1003 NodeID="1003">1</node1003></Hill1>
+	<Chebyshev2D NodeID="0">
+		<node327730 NodeID="327730">-10.</node327730>
+		<node393266 NodeID="393266">10.</node393266>
+		<node458802 NodeID="458802">20.</node458802>
+		<node524338 NodeID="524338">-10.</node524338>
+		<node589874 NodeID="589874">10.</node589874>
+		<node655410 NodeID="655410">20.</node655410>
+		<node720946 NodeID="720946">0.</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">2.</node1002>
+		<node1003 NodeID="1003">1.</node1003>
+		<node1004 NodeID="1004">2.</node1004>
+		<node1005 NodeID="1005">1.</node1005>
+	</Chebyshev2D>
+	<Cosine NodeID="0">
+		<node327730 NodeID="327730">-10.</node327730>
+		<node393266 NodeID="393266">10.</node393266>
+		<node458802 NodeID="458802">20.</node458802>
+		<node524338 NodeID="524338">-10.</node524338>
+		<node589874 NodeID="589874">10.</node589874>
+		<node655410 NodeID="655410">20.</node655410>
+		<node720946 NodeID="720946">0.</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">1.</node1002>
+		<node1003 NodeID="1003">1.</node1003>
+		<node1004 NodeID="1004">1.</node1004>
+		<node1005 NodeID="1005">3.</node1005>
+	</Cosine>
+	<DoseResp2D NodeID="0">
+		<node327730 NodeID="327730">-10.</node327730>
+		<node393266 NodeID="393266">10.</node393266>
+		<node458802 NodeID="458802">20.</node458802>
+		<node524338 NodeID="524338">-10.</node524338>
+		<node589874 NodeID="589874">10.</node589874>
+		<node655410 NodeID="655410">20.</node655410>
+		<node720946 NodeID="720946">0.</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">2.</node1002>
+		<node1003 NodeID="1003">2.</node1003>
+		<node1004 NodeID="1004">2.</node1004>
+		<node1005 NodeID="1005">2.</node1005>
+	</DoseResp2D>
+	<Exponential2D NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">2.</node1002>
+		<node1003 NodeID="1003">2.</node1003>
+	</Exponential2D>
+	<Extreme2D NodeID="0">
+		<node327730 NodeID="327730">-10.</node327730>
+		<node393266 NodeID="393266">10.</node393266>
+		<node458802 NodeID="458802">20.</node458802>
+		<node524338 NodeID="524338">-10.</node524338>
+		<node589874 NodeID="589874">10.</node589874>
+		<node655410 NodeID="655410">20.</node655410>
+		<node720946 NodeID="720946">0.</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">1.</node1002>
+		<node1003 NodeID="1003">1.</node1003>
+		<node1004 NodeID="1004">1.</node1004>
+		<node1005 NodeID="1005">2.</node1005>
+	</Extreme2D>
+	<ExtremeCum NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">1.</node1002>
+		<node1003 NodeID="1003">2.</node1003>
+		<node1004 NodeID="1004">1.</node1004>
+		<node1005 NodeID="1005">1.</node1005>
+		<node1006 NodeID="1006">2.</node1006>
+		<node1007 NodeID="1007">1.</node1007>
+	</ExtremeCum>
+	<Fourier2D NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0</node1000>
+		<node1001 NodeID="1001">1</node1001>
+		<node1002 NodeID="1002">1</node1002>
+		<node1003 NodeID="1003">1</node1003>
+		<node1004 NodeID="1004">1</node1004>
+		<node1005 NodeID="1005">2</node1005>
+		<node1006 NodeID="1006">2</node1006>
+	</Fourier2D>
+	<Gauss2D NodeID="0">
+		<node327730 NodeID="327730">-1.</node327730>
+		<node393266 NodeID="393266">1.</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-1.</node524338>
+		<node589874 NodeID="589874">1.</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">10.</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">0.</node1002>
+		<node1003 NodeID="1003">0.29999999999999999</node1003>
+		<node1004 NodeID="1004">0.</node1004>
+		<node1005 NodeID="1005">0.29999999999999999</node1005>
+	</Gauss2D>
+	<GaussCum NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">1.</node1002>
+		<node1003 NodeID="1003">2.</node1003>
+		<node1004 NodeID="1004">1.</node1004>
+		<node1005 NodeID="1005">2.</node1005>
+	</GaussCum>
+	<LogisticCum NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">1.</node1002>
+		<node1003 NodeID="1003">2.</node1003>
+		<node1004 NodeID="1004">1.</node1004>
+		<node1005 NodeID="1005">2.</node1005>
+	</LogisticCum>
+	<LogNormal2D NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">2.</node1002>
+		<node1003 NodeID="1003">2.</node1003>
+		<node1004 NodeID="1004">1.</node1004>
+		<node1005 NodeID="1005">2.</node1005>
+		<node1006 NodeID="1006">2.</node1006>
+		<node1007 NodeID="1007">1.</node1007>
+	</LogNormal2D>
+	<Lorentz2D NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">0.</node1002>
+		<node1003 NodeID="1003">0.29999999999999999</node1003>
+		<node1004 NodeID="1004">0.</node1004>
+		<node1005 NodeID="1005">0.29999999999999999</node1005>
+	</Lorentz2D>
+	<Parabola2D NodeID="0">
+		<node327730 NodeID="327730">-10.</node327730>
+		<node393266 NodeID="393266">10.</node393266>
+		<node458802 NodeID="458802">20.</node458802>
+		<node524338 NodeID="524338">-10.</node524338>
+		<node589874 NodeID="589874">10.</node589874>
+		<node655410 NodeID="655410">20.</node655410>
+		<node720946 NodeID="720946">0.</node720946>
+		<node1000 NodeID="1000">0</node1000>
+		<node1001 NodeID="1001">2</node1001>
+		<node1002 NodeID="1002">2</node1002>
+		<node1003 NodeID="1003">2</node1003>
+		<node1004 NodeID="1004">2</node1004>
+	</Parabola2D>
+	<Plane NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0</node1000>
+		<node1001 NodeID="1001">1</node1001>
+		<node1002 NodeID="1002">2</node1002>
+	</Plane>
+	<Poly2D NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0</node1000>
+		<node1001 NodeID="1001">2</node1001>
+		<node1002 NodeID="1002">2</node1002>
+		<node1003 NodeID="1003">-2</node1003>
+		<node1004 NodeID="1004">-2</node1004>
+		<node1005 NodeID="1005">1</node1005>
+	</Poly2D>
+	<Polynomial2D NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">1.</node1002>
+		<node1003 NodeID="1003">1.</node1003>
+		<node1004 NodeID="1004">1.</node1004>
+		<node1005 NodeID="1005">1.</node1005>
+		<node1006 NodeID="1006">1.</node1006>
+		<node1007 NodeID="1007">1.</node1007>
+		<node1008 NodeID="1008">1.</node1008>
+		<node1009 NodeID="1009">1.</node1009>
+		<node1010 NodeID="1010">1.</node1010>
+	</Polynomial2D>
+	<Power2D NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">0.</node1000>
+		<node1001 NodeID="1001">1.</node1001>
+		<node1002 NodeID="1002">2.</node1002>
+		<node1003 NodeID="1003">1.</node1003>
+		<node1004 NodeID="1004">2.</node1004>
+		<node1005 NodeID="1005">1.</node1005>
+	</Power2D>
+	<Rational2D NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">100.</node1000>
+		<node1001 NodeID="1001">-2.e-002</node1001>
+		<node1002 NodeID="1002">2.9999999999999999e-002</node1002>
+		<node1003 NodeID="1003">-4.0000000000000002e-004</node1003>
+		<node1004 NodeID="1004">-9.9999999999999995e-008</node1004>
+		<node1005 NodeID="1005">-1.e-003</node1005>
+		<node1006 NodeID="1006">5.0000000000000002e-005</node1006>
+		<node1007 NodeID="1007">-1.e-008</node1007>
+		<node1008 NodeID="1008">1.e-003</node1008>
+		<node1009 NodeID="1009">-1.0000000000000001e-005</node1009>
+	</Rational2D>
+	<RationalTaylor NodeID="0">
+		<node327730 NodeID="327730">-10</node327730>
+		<node393266 NodeID="393266">10</node393266>
+		<node458802 NodeID="458802">20</node458802>
+		<node524338 NodeID="524338">-10</node524338>
+		<node589874 NodeID="589874">10</node589874>
+		<node655410 NodeID="655410">20</node655410>
+		<node720946 NodeID="720946">0</node720946>
+		<node1000 NodeID="1000">100.</node1000>
+		<node1001 NodeID="1001">-7.0000000000000001e-003</node1001>
+		<node1002 NodeID="1002">7.0000000000000001e-003</node1002>
+		<node1003 NodeID="1003">-4.0000000000000002e-004</node1003>
+		<node1004 NodeID="1004">4.0000000000000003e-005</node1004>
+		<node1005 NodeID="1005">-1.e-003</node1005>
+		<node1006 NodeID="1006">5.0000000000000002e-005</node1006>
+		<node1007 NodeID="1007">8.0000000000000004e-004</node1007>
+		<node1008 NodeID="1008">1.0000000000000001e-005</node1008>
+		<node1009 NodeID="1009">3.0000000000000001e-006</node1009>
+	</RationalTaylor>
+	<Circle NodeID="0">0.<node327730 NodeID="327730">1.</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200.</node458802><node786482 NodeID="786482">1.</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">200.</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">5.</node1000><node1001 NodeID="1001">4.</node1001><node1002 NodeID="1002">2.</node1002></Circle><Ellipse NodeID="0">0.<node327730 NodeID="327730">1.</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">200.</node458802><node786482 NodeID="786482">1.</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">200.</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">5.</node1000><node1001 NodeID="1001">6.</node1001><node1002 NodeID="1002">3.</node1002><node1003 NodeID="1003">2.</node1003></Ellipse><SawtoothWave NodeID="0">0.<node327730 NodeID="327730">0.</node327730><node393266 NodeID="393266">4.</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">0.</node1000><node1001 NodeID="1001">0.</node1001><node1002 NodeID="1002">1.</node1002><node1003 NodeID="1003">1.</node1003></SawtoothWave><SquareWave NodeID="0">0.<node327730 NodeID="327730">0.</node327730><node393266 NodeID="393266">4.</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">-1.</node1000><node1001 NodeID="1001">1.</node1001><node1002 NodeID="1002">0.</node1002><node1003 NodeID="1003">2.</node1003></SquareWave><Step NodeID="0">0.<node327730 NodeID="327730">-2.</node327730><node393266 NodeID="393266">2.</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">0.</node1000><node1001 NodeID="1001">1.</node1001><node1002 NodeID="1002">0.</node1002></Step><PWL2 NodeID="0">0.<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">100.</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">1.</node1000><node1001 NodeID="1001">1.</node1001><node1002 NodeID="1002">2.</node1002><node1003 NodeID="1003">-1.</node1003></PWL2><PWL3 NodeID="0">0.<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">100.</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">1.</node1000><node1001 NodeID="1001">0.5</node1001><node1002 NodeID="1002">-1.</node1002><node1003 NodeID="1003">2.</node1003><node1004 NodeID="1004">2.</node1004><node1005 NodeID="1005">1.</node1005></PWL3><Rational5 NodeID="0">0.<node327730 NodeID="327730">-10.</node327730><node393266 NodeID="393266">10.</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">1.</node1000><node1001 NodeID="1001">2.</node1001><node1002 NodeID="1002">3.</node1002><node1003 NodeID="1003">4.</node1003></Rational5><Cross NodeID="0">0<node327730 NodeID="327730">1.0000000000000001E-5</node327730><node393266 NodeID="393266">10000</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">1</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">10000</node1000><node1001 NodeID="1001">3</node1001><node1002 NodeID="1002">1000</node1002><node1003 NodeID="1003">0.90000000000000002</node1003></Cross><Bingham NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">100</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">5</node1000><node1001 NodeID="1001">10</node1001></Bingham><Carreau NodeID="0">0<node327730 NodeID="327730">0.01</node327730><node393266 NodeID="393266">1000</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">1</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">60</node1000><node1001 NodeID="1001">3</node1001><node1002 NodeID="1002">3</node1002><node1003 NodeID="1003">2</node1003><node1004 NodeID="1004">0.29999999999999999</node1004></Carreau><Herschel NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">100</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">1</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">10</node1000><node1001 NodeID="1001">0.40000000000000002</node1001><node1002 NodeID="1002">10</node1002></Herschel><MYEGA NodeID="0">0<node327730 NodeID="327730">100</node327730><node393266 NodeID="393266">1000</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">1E-3</node1000><node1001 NodeID="1001">100</node1001><node1002 NodeID="1002">100</node1002></MYEGA><VFT NodeID="0">0<node327730 NodeID="327730">600</node327730><node393266 NodeID="393266">800</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">5</node1000><node1001 NodeID="1001">3020</node1001><node1002 NodeID="1002">545</node1002></VFT><Goldman NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">200</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">425</node1001><node1002 NodeID="1002">400</node1002><node1003 NodeID="1003">50</node1003><node1004 NodeID="1004">278</node1004></Goldman><Voigt2DMod NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">100</node393266><node458802 NodeID="458802">20</node458802><node524338 NodeID="524338">1</node524338><node589874 NodeID="589874">100</node589874><node655410 NodeID="655410">20</node655410><node720946 NodeID="720946">0</node720946><node1000 NodeID="1000">0.10000000000000001</node1000><node1001 NodeID="1001">50</node1001><node1002 NodeID="1002">50</node1002><node1003 NodeID="1003">20</node1003><node1004 NodeID="1004">50</node1004><node1005 NodeID="1005">20</node1005><node1006 NodeID="1006">0.5</node1006></Voigt2DMod><Weibull NodeID="0">0<node327730 NodeID="327730">0</node327730><node393266 NodeID="393266">10</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">0</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">2</node720946><node983090 NodeID="983090">2</node983090><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">5</node1001><node1002 NodeID="1002">2</node1002><node1003 NodeID="1003">0.5</node1003></Weibull><LognormalCDF NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">15</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002><node1003 NodeID="1003">2</node1003></LognormalCDF><ExponentialCDF NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">100</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">10</node1002></ExponentialCDF><GammaCDF NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">100</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">5</node1002><node1003 NodeID="1003">4</node1003></GammaCDF><WeibullCDF NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">15</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">2</node1002><node1003 NodeID="1003">3</node1003></WeibullCDF><NormalCDF NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">15</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">0</node1000><node1001 NodeID="1001">1</node1001><node1002 NodeID="1002">0.5</node1002><node1003 NodeID="1003">2</node1003></NormalCDF><ExpAssoc1 NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">200</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">41</node1000><node1001 NodeID="1001">64</node1001><node1002 NodeID="1002">10</node1002><node1003 NodeID="1003">50</node1003></ExpAssoc1><ExpAssoc2 NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">200</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">48</node1001><node1002 NodeID="1002">64</node1002><node1003 NodeID="1003">6</node1003><node1004 NodeID="1004">9</node1004><node1005 NodeID="1005">10</node1005><node1006 NodeID="1006">53</node1006></ExpAssoc2><ExpAssocDelay1 NodeID="0">0<node327730 NodeID="327730">1</node327730><node393266 NodeID="393266">200</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">20</node1000><node1001 NodeID="1001">64</node1001><node1002 NodeID="1002">15</node1002><node1003 NodeID="1003">67</node1003></ExpAssocDelay1><ExpAssocDelay2 NodeID="0">0<node327730 NodeID="327730">-50</node327730><node393266 NodeID="393266">200</node393266><node458802 NodeID="458802">200</node458802><node786482 NodeID="786482">-10</node786482><node852018 NodeID="852018">10</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">0</node720946><node983090 NodeID="983090">0</node983090><node1000 NodeID="1000">1</node1000><node1001 NodeID="1001">48</node1001><node1002 NodeID="1002">64</node1002><node1003 NodeID="1003">6</node1003><node1004 NodeID="1004">9</node1004><node1005 NodeID="1005">10</node1005><node1006 NodeID="1006">53</node1006></ExpAssocDelay2><PIPlatt NodeID="0">0<node327730 NodeID="327730">100</node327730><node393266 NodeID="393266">1000</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-25</node786482><node852018 NodeID="852018">525</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">2</node720946><node983090 NodeID="983090">2</node983090><node1000 NodeID="1000">4.0300000000000002</node1000><node1001 NodeID="1001">0.029999999999999999</node1001></PIPlatt><PIPlatt2 NodeID="0">0<node327730 NodeID="327730">-400</node327730><node393266 NodeID="393266">600</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-25</node786482><node852018 NodeID="852018">525</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">2</node720946><node983090 NodeID="983090">2</node983090><node1000 NodeID="1000">4.0300000000000002</node1000><node1001 NodeID="1001">0.029999999999999999</node1001><node1002 NodeID="1002">0.01</node1002></PIPlatt2><PIWebb NodeID="0">0<node327730 NodeID="327730">-200</node327730><node393266 NodeID="393266">1200</node393266><node458802 NodeID="458802">100</node458802><node786482 NodeID="786482">-25</node786482><node852018 NodeID="852018">525</node852018><node917554 NodeID="917554">100</node917554><node524338 NodeID="524338">0</node524338><node720946 NodeID="720946">2</node720946><node983090 NodeID="983090">2</node983090><node1000 NodeID="1000">4.0300000000000002</node1000><node1001 NodeID="1001">0.029999999999999999</node1001></PIWebb></SimulateSetting>

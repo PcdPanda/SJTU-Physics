@@ -1,0 +1,64 @@
+\documentclass[a4paper]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{braket}%量子力学符号
+\usepackage{geometry}
+\usepackage{enumerate}
+\usepackage{natbib}
+\usepackage{float}%稳定图片位置
+\usepackage{graphicx,subfig}%画图
+\usepackage{caption}
+\usepackage[english]{babel}
+\usepackage{indentfirst}%缩进
+\usepackage{enumerate}%加序号
+\usepackage{multirow}%合并行
+\usepackage{hyperref}
+\hypersetup{hypertex=true, colorlinks=true, linkcolor=black, anchorcolor=black, citecolor=black}
+\title{\Large \textbf{VP390 Review 3}\\
+\author{\textbf{Pan, Chongdan ID:516370910121}\\
+}
+}
+\begin{document}
+\maketitle
+\begin{enumerate}
+    \item What does the de Broglie hypothesis say?
+    \\ \textbf{Everything has the property of wave}
+    \item Write down the de Broglie relations between (a) the momentum and the wave number, (b) the energy and the angular frequency.
+    \\ \textbf{$k=\frac{p}{\hbar},\omega=\frac{E}{\hbar}$}
+    \item The length of the de Broglie wave of an electron in the first Bohr orbit of a hydrogen atom is much $\cdots$ than that of a cricket ball moving at 10 m/s.
+    \\ \textbf{Larger}
+    \item Write down the general form of the classical wave equation (1D). Give two specific examples from classical physics
+    \\ \textbf{$\frac{\partial^2\zeta}{\partial x^2}=\frac{1}{v_{ph}^2}\frac{\partial^2\zeta}{\partial t^2}$}
+    \item What is a (classical) wave packet?
+    \\ \textbf{A superposition of waves with different $\omega$}
+    \item What is the group velocity? Is it equal to the phase velocity?
+    \\ \textbf{The velocity of envelop, not equal}
+    \item Given the angular frequency and the wave number, how can we find the phase velocity? Group velocity?
+    \\ \textbf{$v_{ph}=\frac{\omega}{k},v_g=v_{ph}+k\frac{\partial v_g}{\partial k}=\frac{\mathrm{\omega}}{\mathrm{k}}$}
+    \item What do we mean when we say that a wave is dispersive?
+    \\ \textbf{Wave with different length travels with different $v_{ph}$}
+    \item What is the classical uncertainty relation? Illustrate with a sketch
+    \\ \textbf{$\bigtriangleup x\bigtriangleup k\approx1 $}
+    \item When is a function said to be square-integrable?
+    \\ \textbf{$\inf|\Psi(x,t)|^2\neq\infty$}
+    \item Let $\Psi(x,t)$ describe a quantum particle in a certain state. How do we calculate the average position of
+    the particle? The variance of the position? (Give formulas.)
+    \\ \textbf{$\braket{x},\sqrt{\braket{x^2}-\braket{x}^2}$}
+    \item What is a stationary state
+    \\ \textbf{$\Psi(x,t)=\phi(x)$}
+    \item Write down the (time-dependent) Schrodinger equation.
+    \\ \textbf{$-\frac{\hbar^2}{2m}\frac{\partial^2\Psi(x,t)}{\partial x^2}+V(x)\Psi(x,t)=i\hbar\Psi(x,t)$}
+    \item How do we represent physical (i.e. measurable) quantities in quantum mechanics?
+    \\ \textbf{Hermitian operator}
+    \item What is the form of the position operator? momentum operator? kinetic energy?
+    \\ \textbf{$x,-i\hbar\frac{\partial}{\partial x},-\frac{\hbar^2}{2m}\frac{\partial^2}{\partial x^2}$}
+    \item What is the Hamiltonian of a quantum system?
+    \\ \textbf{Total energy operator}
+    \item Write down a generic equation for eigenvalues and eigenfunctions of an operator. Identify which symbols
+    represent the operator, the eigenvalue and the eigenfunction
+    \\ \textbf{$c_m=\braket{\psi_m,\phi}$}
+    \item If $\psi_E$ is a solution of the stationary Schrodinger equation, then the corresponding solution of the full
+    (time-dependent) 
+    \\ \textbf{$e^{-\frac{i}{\hbar}Et}\psi_E$}
+\end{enumerate}
+\end{document}

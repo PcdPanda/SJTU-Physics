@@ -1,0 +1,16 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Theoretical Background}{3}
+\contentsline {subsection}{\numberline {1.1}Objectives}{3}
+\contentsline {subsection}{\numberline {1.2}Basic Concepts in Exercise}{3}
+\contentsline {subsection}{\numberline {1.3}Second Law of Dynamics for Rotational Motion}{3}
+\contentsline {subsection}{\numberline {1.4}Parallel Axis Theorem}{3}
+\contentsline {subsection}{\numberline {1.5}Measurement Setup and Measurement Method}{4}
+\contentsline {subsection}{\numberline {1.6}Measurement of Angular Acceleration}{5}
+\contentsline {section}{\numberline {2}Apparatus}{6}
+\contentsline {subsection}{\numberline {2.1}Tools}{6}
+\contentsline {subsection}{\numberline {2.2}Materials}{6}
+\contentsline {section}{\numberline {3}Measurement Procedure}{7}
+\contentsline {section}{\numberline {4}Calculation and Results}{8}
+\contentsline {section}{\numberline {5}Measurement Uncertainty Analysis}{9}
+\contentsline {section}{\numberline {6}Conclusion and Discussion}{10}
+\contentsline {section}{\numberline {7}Data Sheet}{11}
