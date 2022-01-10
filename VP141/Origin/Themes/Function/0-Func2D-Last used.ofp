@@ -1,2 +1,0 @@
-<?xml version="1.0"?>
-<Settings NodeID="0" Comment="">Settings<node1 Label="strParamName">x</node1><node2 Label="nPoints">100</node2><node3 Label="strFrom">0</node3><node4 Label="strTo">2*pi</node4><node5 Label="strFormular">x^2</node5><node6 Label="strYFormular"/><node7 Label="bShowLT">0</node7><node8 Label="strDefinitions"/><node9 Label="strYLN"/><node10 Label="strYUnits"/><node11 Label="strYComments"/><node12 Label="strXLN"/><node13 Label="strXUnits"/><node14 Label="strXComments"/><node15 Label="nAddToGraph">0</node15><node16 Label="bAutoRange">0</node16></Settings>
